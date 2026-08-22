@@ -1,0 +1,10 @@
+inputs/data.db
+inputs/
+inputs/*
+outputs/
+outputs/*
+*.pkl
+*.csv
+inputs/
+
+
