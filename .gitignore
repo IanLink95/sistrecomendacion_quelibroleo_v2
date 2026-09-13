@@ -6,5 +6,4 @@ outputs/*
 *.pkl
 *.csv
 inputs/
-
-
+*.npy
